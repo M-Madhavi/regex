@@ -1,0 +1,7 @@
+Write a function called countEvenNumbers which accepts a string of numbers and returns the count of numbers 
+between 0 and 9.
+
+the regex function to find numbers in a string
+
+
+regex=/\d+/g;
